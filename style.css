@@ -1,0 +1,41 @@
+/* h1{
+    color: blue;
+    background-color: yellow;
+}
+body {
+    background-color: pink;
+}
+
+button {
+    background-color: blue;
+  //  text color 
+    color : white;
+} */
+/* 
+#box{
+    height: 250px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+} */
+
+/*Events */
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
